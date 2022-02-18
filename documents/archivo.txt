@@ -1,1 +1,1 @@
-Hola, estoy aprendiendo git, estamos modificando este archivo para commitear...viendo el icono degit sin utilizar líneas de comando
+Hola, estoy aprendiendo git, estamos modificando este archivo para commitear...viendo el icono degit sin utilizar líneas de comando y más cambios
